@@ -6,7 +6,7 @@ void main() {
 }
 
 const apiKey =
-    '2633c95d4746871307579c6f60c51397ff212002256f5db80e8ae8187d35a7956c73e92cbbbccd8c';
+    'get one from deepar.ai';
 
 class MyApp extends StatefulWidget {
   @override
