@@ -1,6 +1,6 @@
 # Flutter Deep AR
 
-A sample Flutter project using DeepAR masks for a snapchat like filter effect.
+A sample Flutter project using [camera_deep_ar](https://pub.dev/packages/camera_deep_ar) plugin masks for a snapchat filter.
 
 ## Getting Started
 
